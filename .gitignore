@@ -1,0 +1,18 @@
+# .NET Core
+[Bb]in/
+[Oo]bj/
+
+# Node.js
+node_modules/
+dist/
+.angular/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS Files
+.DS_Store
+Thumbs.db
