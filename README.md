@@ -2,9 +2,6 @@
 
 Lucky Bid is an online auction platform built with a modern tech stack, featuring a clean architecture backend and a responsive frontend.
 
-## 🚀 Live Demo
-*(Note: Replace this link once you deploy the project online, e.g., using Vercel, Azure, or AWS)*
-[View Live Project](https://your-live-url.com)
 
 ## 🛠️ Technology Stack
 - **Backend:** .NET 8 Web API (Clean Architecture: Api, Application, Domain, Infrastructure)
